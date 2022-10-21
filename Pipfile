@@ -11,6 +11,8 @@ matplotlib = "*"
 jupyterlab = "*"
 rise = "*"
 ipympl = "*"
+pyqrcode = "*"
+pypng = "*"
 
 [dev-packages]
 
